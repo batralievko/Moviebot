@@ -1,6 +1,6 @@
 from enum import Enum
 
-token = '1294185930:AAG4xfaK88jkjG3nXXXEZq5hqp_wtUgefrU'
+token = '' # place for token of bot
 # db_file = "database.vdb"
 
 
